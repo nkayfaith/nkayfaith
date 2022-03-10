@@ -24,3 +24,4 @@ function onClick(element) {
       } else {
           x.className = x.className.replace(" w3-show", "");
       }
+    }
