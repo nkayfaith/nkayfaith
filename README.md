@@ -6,7 +6,7 @@
 
 Hey there 👋
 
-I’m NK, an aspiring data scientist and rookie software engineer. I make it my mission to solve problems statically and produce secure and swift system.
+I’m NK, an aspiring data scientist and rookie software engineer. I make it my mission to solve problems statistically and produce secure and swift systems.
 
 Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
